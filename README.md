@@ -39,7 +39,6 @@
 | **Kran Zagreb** | Crane transport company site | [Live ↗](https://kran-zagreb-transport.vercel.app) |
 | **Elite Estate** | Real-estate website | [Live ↗](https://elite-estate-website.vercel.app) |
 | **RentMe CH** | Rental platform, Switzerland | [Live ↗](https://rentme-ch.vercel.app) |
-| **NetWave** | Technology company website | [Live ↗](https://netwave-technology.vercel.app) |
 
 > 📌 Pinned repositories below contain case studies with screenshots and tech breakdowns.
 
