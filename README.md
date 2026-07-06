@@ -54,7 +54,7 @@ My main focus is:
 | Project          | Type              | What I Worked On                                                                    | Live                                               |
 | ---------------- | ----------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------- |
 | **EM Parts**     | E-commerce        | Premium carbon fiber parts website for the Swiss automotive market                  | [em-parts.ch](https://em-parts.ch)                 |
-| **RentMe CH**    | Rental Platform   | Rental platform concept for the Swiss market with modern UX and structured pages    | [Live ↗](https://rentme-ch.vercel.app)             |
+| **RentMe CH**    | Rental Platform   | Rental platform concept for the Swiss market with modern UX and structured pages    | [Live ↗](http://rentmesportcars.ch/)             |
 | **Elite Estate** | Real Estate       | Real-estate website with clean layout, property presentation, and responsive design | [Live ↗](https://elite-estate-website.vercel.app)  |
 | **Fuel Your Digital** | Webfow       | Real-estate website with clean layout, property presentation, and responsive design | [Live ↗](https://fuelyourdigital.com/)  |
 
